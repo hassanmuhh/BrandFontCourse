@@ -59,4 +59,5 @@ by a grid with 4 cols and flexbox to justify content.
 ## Resources.
 - Inspiration and Content -> https://variablefontcourse.com/
 - Illustration -> https://undraw.com
+
 *SemiClone of VariableFontCourse website*.
